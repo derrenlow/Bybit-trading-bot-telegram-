@@ -1,9 +1,9 @@
 # Bybit-trading-bot-telegram-
 This bybit trading bot consist of auto opening of position/auto closing based on keywords from what the users post in the discord please read through the code before using the bot there's alot of configuration needed
 
-DO NOTE THAT THIS WOULD ONLY WORK ON BYBIT UNIFIED MARGIN ACCOUNT
+**DO NOTE THAT THIS WOULD ONLY WORK ON BYBIT UNIFIED MARGIN ACCOUNT**
 
-Thing you would require before using this bot:
+**Thing you would require before using this bot:**
 
 1. Api token from the telegram bot
 2. Your discord auth token
@@ -11,7 +11,7 @@ Thing you would require before using this bot:
 4. Discord chat id from your discord text channel
 5. Bybit api/secret key
 
-Install all the package needed
+**Install all the package needed**
 
 1. npm i dotenv (https://www.npmjs.com/package/dotenv)
 2. npm i discord.js-selfbot-v13 (https://www.npmjs.com/package/discord.js-selfbot-v13)
@@ -21,7 +21,7 @@ Install all the package needed
 
 node app.js to start the bot
 
-Functions for telegram
+**Functions for telegram**
 
 /start - to get every commands
 
