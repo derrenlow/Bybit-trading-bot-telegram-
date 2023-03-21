@@ -1,0 +1,5 @@
+SECRET_KEY="<bybit secret key>"
+API_KEY="<bybit api key>"
+TELE_KEY="<telegram api key>"
+DISCORD_TOKEN="<discord auth token>"
+CHAT_ID="<telegram chat id>"
